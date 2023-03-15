@@ -13,3 +13,4 @@ os-sys==2.1.4
 pip==23.0.1
 spacy==1.2.0
 python-dateutil==2.7.2
+PyYAML==5.1.1
